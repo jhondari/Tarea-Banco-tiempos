@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (pilas_ejercicioExcel.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  pila.cpp
+  main.cpp
+  listaSimple.cpp
+  Generando código...
+d:\jhon arcos\desktop\pilas_ejercicioexcel\pilas_ejercicioexcel\pila.cpp(71): warning C4715: 'Pila::pop': no todas las rutas de acceso de control devuelven un valor
+  pilas_ejercicioExcel.vcxproj -> D:\Jhon Arcos\Desktop\pilas_ejercicioExcel\Debug\Arcos_Espin_Listas_Excel.exe
